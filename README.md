@@ -4,9 +4,9 @@ In love with Technology🥰
 
 ## 🚀 Technologies & Tools I work with (or just love):
 
-![HTML](https://img.shields.io/badge/-HTML-e64d24?style=flat-square&logo=html&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-e64d24?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-0170ba?style=flat-square&logo=css&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ff0000?style=flat-square&logo=coffescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ff0000?style=flat-square&logo=coffeescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-ffd947?style=flat-square&logo=python&logoColor=3477ac)
 ![React](https://img.shields.io/badge/-React-00d8ff?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
