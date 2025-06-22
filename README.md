@@ -3,6 +3,7 @@
 In love with technology🥰
 
 ## 🚀 My stacks:
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
