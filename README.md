@@ -1,4 +1,4 @@
-# 👋🏻 Hi there! I'm Liara Graminho Victor💙, welcome to my Github
+# 👋🏻 Hey there! I'm Liara Graminho Victor💙, welcome to my Github
 
 In love with Technology🥰
 
