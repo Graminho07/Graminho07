@@ -17,9 +17,9 @@ I'm a Full-Stack Developer passionate about building efficient and scalable solu
 
 ## 📈 GitHub Stats
 
-![Liara's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=tokyonight)
+![Liara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Graminho07&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Graminho07&layout=compact&theme=tokyonight)
 
 ## 📫 How to reach me:
 
