@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou a Liara Graminho 👩‍💻
+# 👋 Hey there! I'm Liara Graminho Victor, welcome to my Github💙
 
-Sou desenvolvedora full-stack apaixonada por resolver problemas com código.
+In love with technology🥰
 
-## 🚀 Tecnologias que uso:
+## 🚀 My stacks:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
