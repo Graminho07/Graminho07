@@ -1,6 +1,6 @@
-# 👋🏻 Hi there! I'm Liara Graminho Victor 💙
+# 👋🏻 Hi there! I'm Liara Graminho Victor💙, welcome to my Github😎
 
-I'm a Full-Stack Developer passionate about building efficient and scalable solutions. I love working with cutting-edge technologies like Artificial Intelligence and Quantum Computing.
+In love with Technology🥰
 
 ## 🚀 Technologies & Tools I work with (or just love):
 
