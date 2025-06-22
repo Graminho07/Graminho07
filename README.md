@@ -1,21 +1,27 @@
-# 👋🏻 Hey there! I'm Liara Graminho Victor, welcome to my Github💙
+# 👋🏻 Hi there! I'm Liara Graminho Victor💙
 
-In love with technology🥰
+I'm a Full-Stack Developer passionate about building efficient and scalable solutions. I love working with cutting-edge technologies like Artificial Intelligence and Quantum Computing.
 
-## 🚀 My stacks:
-☕![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+## 🚀 Technologies & Tools I work with:
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-orange?style=flat-square)
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?style=flat-square&logo=openai)
+![Quantum Computing](https://img.shields.io/badge/-Quantum%20Computing-8E44AD?style=flat-square)
 
 ## 📈 GitHub Stats
+
 ![Liara's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=tokyonight)
 
-## 📌 Projetos em destaque
-- [🔗 Meu CRM com WhatsApp](https://github.com/seu-username/seu-repo)
-- [🔗 Sistema de Psicólogos](https://github.com/seu-username/seu-repo)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=tokyonight)
 
-## 📫 Contato:
+## 📫 How to reach me:
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-linkedin)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-black?style=flat-square&logo=github)](https://seu-site.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://seu-site.com)
