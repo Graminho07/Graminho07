@@ -10,7 +10,7 @@ I'm a Full-Stack Developer passionate about building efficient and scalable solu
 ![Node.js](https://img.shields.io/badge/-Node.js-67975f?style=flat-square&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2d79c7?style=flat-square&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-016090?style=flat-square&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-003855?style=flat-square&logo=mysql)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-220347?style=flat-square)
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?style=flat-square&logo=openai)
 ![Quantum Computing](https://img.shields.io/badge/-Quantum%20Computing-8E44AD?style=flat-square)
