@@ -4,7 +4,7 @@ I'm a Full-Stack Developer passionate about building efficient and scalable solu
 
 ## 🚀 Technologies & Tools I work with (or just love):
 
-![Java](https://img.shields.io/badge/-Java-ff0000?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ff0000?style=flat-square&logo=coffescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-ffd947?style=flat-square&logo=python&logoColor=3477ac)
 ![React](https://img.shields.io/badge/-React-00d8ff?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
@@ -12,8 +12,8 @@ I'm a Full-Stack Developer passionate about building efficient and scalable solu
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-09628c?style=flat-square&logo=mysql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-220347?style=flat-square&logo=icloud&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?style=flat-square&logo=probot&logoColor=white)
-![Quantum Computing](https://img.shields.io/badge/-Quantum%20Computing-8E44AD?style=flat-square&logo=protondb&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-3b3b3b?style=flat-square&logo=probot&logoColor=white)
+![Quantum Computing](https://img.shields.io/badge/-Quantum%20Computing-1b4d00?style=flat-square&logo=protondb&logoColor=white)
 
 ## 📈 GitHub Stats
 
@@ -23,5 +23,5 @@ I'm a Full-Stack Developer passionate about building efficient and scalable solu
 
 ## 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=github&logoColor=white)](https://seu-site.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liara-graminho-victor/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=github&logoColor=white)](https://liaraportfolio.netlify.app/)
