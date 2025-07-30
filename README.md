@@ -8,7 +8,7 @@ In love with Technology🥰
 ![CSS](https://img.shields.io/badge/-CSS-0170ba?style=flat-square&logo=css&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ff0000?style=flat-square&logo=coffeescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-ffd947?style=flat-square&logo=python&logoColor=3477ac)
-![React](https://img.shields.io/badge/-React-00d8ff?style=flat-square&logo=react&logoColor=black&color=00d8ff&labelColor=black)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=00d8ff&color=00d8ff)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
