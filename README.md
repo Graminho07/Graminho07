@@ -26,5 +26,5 @@ In love with Technology🥰
 ## 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00669c?style=flat-square&logoColor=white)](https://www.linkedin.com/in/liara-graminho-victor/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00091d?style=flat-square&logoColor=white)](https://liaraportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00091d?style=flat-square&logoColor=white)](https://liaragvportfolio.onrender.com/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/liara.dev/)
